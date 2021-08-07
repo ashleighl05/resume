@@ -11,15 +11,25 @@ e: ashleigh.lane@outlook.com.au
 Education
 ---------
 
-2010-present
-:   **PhD, Computer Science**; Awesome University (MyTown)
+2022-2023
+:   **College, Year 12 Certificate**; UC Senior Secondary College Lake Ginninderra (ACT)
+
+    *Majoring in: Chemistry, Human Biology, Specialist Method Mathematics, and Interdisciplinary Sciences. Minoring in: English and Physics*
+
+2021-present
+:   **Certificate I, Hospitality**; UC High School Kaleen (ACT)
 
     *Thesis title: Deep Learning Approaches to the Self-Awesomeness
      Estimation Problem*
 
-2007-2010
-:   **BSc, Computer Science and Electrical Engineering**; University of
-    HomeTown (HomeTown)
+2020-present
+:   **High School, Year 10 Certificate**; UC High School Kaleen (ACT)
+
+    *Thesis title: Deep Learning Approaches to the Self-Awesomeness
+     Estimation Problem*
+
+2018-2020
+:   **High School**; Yass High School (NSW)
 
     *Minor: Awesomeology*
 
