@@ -1,16 +1,17 @@
-Johnny Coder
+Ashleigh Lane
 ============
 
--------------------     ----------------------------
-1 MyAddress                        email@example.com
-MyTown 1000                          @twitter_handle
-MyCountry                           1800 my-phone-nr
--------------------     ----------------------------
+3 Woolrych St,
+Binalong, NSW 2584
+
+m: 0413 913 159
+
+e: ashleigh.lane@outlook.com.au
 
 Education
 ---------
 
-2010-2014 (expected)
+2010-present
 :   **PhD, Computer Science**; Awesome University (MyTown)
 
     *Thesis title: Deep Learning Approaches to the Self-Awesomeness
